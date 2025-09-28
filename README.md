@@ -1,6 +1,6 @@
 # Hi, I'm Illia 👋
 
-I'm a self-taught software developer from Kharkiv, Ukraine. I enjoy building small projects to learn new concepts and share my knowledge with the community.
+I'm a self-taught software developer. I enjoy building small projects to learn new concepts and share my knowledge with the community.
 
 ## 🔧 Technologies & Tools
 - **Programming languages:** Python

